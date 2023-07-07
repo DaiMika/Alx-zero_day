@@ -1,2 +1,1 @@
-My first readme
-This is my first readme
+You can do hard things. Have the grit mindset
